@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-top: 50px;
+   background-color: aliceblue;
+}
+
+table {
+    background-color: rgb(218, 214, 227);
+    color: rgba(56, 10, 224, 0.87);
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    border-collapse: collapse;
+    border: rgb(39, 39, 197);
+
+}
+
+tr:hover {
+    background-color: rgb(163, 181, 175);
+}
+
+th,td{
+    border: 3px solid rgb(28, 18, 168);
+
+}
